@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1702222275 source:d:\sementara\proyek game\gameplay.cpp
+
+1702660196 source:d:\sementara\proyek game\main.cpp
+	<iostream>
+	"FILE.h"
+
+1702713308 d:\sementara\proyek game\file.h
+	<iostream>
+
+1702718946 source:d:\sementara\proyek game\file.cpp
+	<iostream>
+	"FILE.h"
+
+1702487195 source:d:\sementara\proyek game\data.cpp
+	"FILE.h"
+	<iostream>
+
